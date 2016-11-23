@@ -18,9 +18,14 @@ public class sadf extends AppCompatActivity {
 
     }
 
+
     public String sd() {
-        String b="dsfg";
-        int i= 0;
+        String b = "dsfg";
+        int i = 0;
         return b;
+    }
+    public void nekaj() {
+        String s = "sda";
+
     }
 }
